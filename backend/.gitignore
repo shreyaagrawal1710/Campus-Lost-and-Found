@@ -1,0 +1,14 @@
+.env
+node_modules/
+coverage/
+npm-debug.log*
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Dependencies and generated files
+node_modules/
+dist/
+coverage/
